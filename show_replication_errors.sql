@@ -1,0 +1,1 @@
+SELECT * FROM performance_schema.replication_applier_status_by_worker\g

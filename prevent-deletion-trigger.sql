@@ -6,5 +6,3 @@ BEGIN
 SIGNAL SQLSTATE '45000' SET MESSAGE_TEXT = 'deletion prevented on users table';
 END$$
 DELIMITER ;
-
-
